@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Content for C
+=======
+New content for D
+>>>>>>> feature
